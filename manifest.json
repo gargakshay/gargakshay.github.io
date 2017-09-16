@@ -1,0 +1,26 @@
+{
+	"short_name": "AirHorner",
+	"name": "Kinlan AirHorner Of Infamy",
+	"icons": [
+		{
+      "src": "1x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+		{
+		  "src": "1x.png",
+		  "type": "image/png",
+		  "sizes": "96x96"
+		},
+		{
+		  "src": "1x.png",
+		  "type": "image/png",
+		  "sizes": "192x192"
+		}
+	],
+	"background_color": "#2196F3",
+	"orientation": "landscape",
+	"theme_color": "#2196F3",
+	"display": "standalone",
+	"start_url": "index.html?launcher=true"
+}
